@@ -1,0 +1,17 @@
+Roast amount (kg)
+1st malt amount (kg)
+2nd malt amount (kg)
+MT - Temperature
+MT - Time
+WK - Temperature
+WK - Steam
+WK - Time
+Total cold wort
+pH
+Extract
+WOC - Time
+WHP Transfer - Time
+WHP Rest - Time
+Roast color
+1st malt color
+2nd malt color
